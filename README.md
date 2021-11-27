@@ -1,6 +1,9 @@
 # flask_app_for_beginner
 Create a flask app, contain books. Make available to post / get / update / delete books.
 
+### first step
+create virtual enviroment for the project
+
 ### section1_no_db
 list of books, initial values
 
